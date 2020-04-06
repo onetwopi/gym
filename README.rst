@@ -1,3 +1,6 @@
+onetwopi fork to update blackjack problem to a specific number of decks
+----------------
+
 **Status:** Maintenance (expect bug fixes and minor updates)
 
 OpenAI Gym
